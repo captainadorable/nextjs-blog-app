@@ -1,9 +1,9 @@
-## Simple blog app using Next.js and Markdown
+# Simple blog app using Next.js and Markdown
 
-# 🖼Preview
+## 🖼Preview
 
 ![Preview](https://cdn.discordapp.com/attachments/797797010689753120/840243140871192576/preview.png "Preview")
-# 🏗 Installation
+## 🏗 Installation
 
 1. Clone repo
 2. `yarn` or `npm i`
