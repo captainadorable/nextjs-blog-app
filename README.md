@@ -1,4 +1,4 @@
-# Simple blog app using Next.js and Markdown
+# Simple blog app using Next.js, Tawilwind.css, Markdown
 
 ## 🖼Preview
 
